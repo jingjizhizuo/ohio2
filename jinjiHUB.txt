@@ -91,7 +91,7 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://4483345998",
 	Time = 2
 })
-local Home = Window:MakeTab({
+local Tab = Window:MakeTab({
     Name = '主页',
     Icon = 'rbxassetid://7733960981',
     PremiumOnly = false
