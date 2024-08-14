@@ -1,0 +1,16 @@
+||gromore.pangolin-sdk-toutiao.com^$app=com.njh.biubiu
+||sgzzlb.lingxigames.com^$app=com.njh.biubiu
+||ucc-log.aligames.com^$app=com.njh.biubiu
+||audid-api.taobao.com^$app=com.njh.biubiu
+||pgdt.ugdtimg.com^$app=com.njh.biubiu
+||*.pangolin-sdk-toutiao-b.com^
+||*.pinduoduo.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||*-*-*.pglstatp-toutiao.com^
+||*-*-*-*.pglstatp-toutiao.com^
+||*.pglstatp-toutiao.com^
+||sdk.e.qq.com^
+||toblog.ctobsnssdk.com^
+||api-access.pangolin-sdk-toutiao.com^
+||dm.toutiao.com^
+||*.kuaishou.com^
